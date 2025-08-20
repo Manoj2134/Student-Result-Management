@@ -8,5 +8,3 @@ A simple project to manage student results efficiently.
 - Generate result reports
 - Search and view student records
 
-## Installation
-```bash
